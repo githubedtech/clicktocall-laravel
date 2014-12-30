@@ -15,10 +15,8 @@
 		<h1>Click To Call</h1>
 		<p>
 			Click To Call converts your website's users into engaged customers by 
-			creating an easy way for your customers to contact your sales and 
-			support teams right on your website.
+			creating an easy way for your customers to contact you right on your website.
 		</p>
-		<p>Here's an example of how it's done!</p>
 		<hr>
 
 		<!-- C2C contact form-->
@@ -28,14 +26,13 @@
 					<div class="form-group">
 						<h3>Call Sales</h3>
 						<p class="help-block">
-							Are you interested in impressing your friends and 
-							confounding your enemies? Enter your phone number 
+							Enter your phone number 
 							below, and our team will contact you right away.
 						</p>
 					</div>
 					<div class="form-group">
 						<input type="text" id="phoneNumber" 
-							placeholder="(651) 555-7889" class="form-control">
+							placeholder="(555) 555-5555" class="form-control">
 					</div>
 					<button type="submit" class="btn btn-default">
 						Contact Sales
